@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  background-color: #B2DFFB;
+
+}
+h1{
+  font-family: "Gochi Hand", cursive;
+  font-size: 6rem;
+  color: #fff;
+  line-height: 2;
+}
+h2
+{
+  font-family: 'Patrick Hand SC', cursive;
+  font-size: 3rem;
+  line-height: 2;
+}
+h3{
+font-family: 'Just Another Hand', cursive;
+font-size: 6rem;
+color: #400082;
+line-height: 2;
+}
+p{
+font-family: 'Muli', sans-serif;
+
+line-height: 2rem;
+width: 100%
+
+
+
+}
+.name{
+  color: #f65c78;
+}
